@@ -2,7 +2,7 @@
 
 🌟 About Me:
 
-I'm student who on the way to becoming a financial analyst (hopeful). I'm sharing about my journey and learning tech 📈💻 
+I'm student on the way to becoming a financial analyst (hopeful). I'm sharing about my journey and learning tech 📈💻 
 
 👩 What I'm Up To 
 
