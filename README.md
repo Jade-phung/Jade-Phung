@@ -10,7 +10,7 @@ I'm student on the way to become a financial analyst (hopeful). I'm sharing abou
 
 🌱 Currently Working On: Becoming a financial analyst 
 
-📘 Learning: Excel, SQL, Python, Power BI 
+📘 Learning: Excel, SQL, Python, Tableau 
 
 📫 Contact Me: maingocchauphung@gmail.com or phungmaingocchau@gmail.com 
 
